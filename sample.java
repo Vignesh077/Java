@@ -12,7 +12,7 @@ public Class Hello{
 	   
 	   
           System.out.println("auto");
-
+            System.out.println("autoo");
 
     }
 
