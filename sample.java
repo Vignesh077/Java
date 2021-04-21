@@ -7,6 +7,10 @@ public Class Hello{
 	System.out.println("hai");
 
         System.out.println("hai");
+	   
+	 System.out.println("main");
+	   
+	   
 
 
 
