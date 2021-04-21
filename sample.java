@@ -11,7 +11,7 @@ public Class Hello{
 	 System.out.println("main");
 	   
 	   
-
+          System.out.println("auto");
 
 
     }
